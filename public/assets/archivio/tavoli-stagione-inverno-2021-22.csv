@@ -1,0 +1,120 @@
+Nome,Persone,"Età media",Dettagli,Evento,Data,"Fatto da","Id Utente","Id evento"
+GIOVANNICELESTE;17;;;"MAI + SENZA";"2021-12-07 22:30:00";"Giovanni Celeste";3;34
+CESA;10;;;MAMACITA;"2021-12-03 22:30:00";"Leonardo Cesaroni";7;32
+VITALI;13;;;MAMACITA;"2021-12-03 22:30:00";"Giovanni Celeste";3;32
+PROBLEMAS;8;;;"YOUR ROOM IS ON FIRE";"2021-11-27 22:30:00";"Leonardo Cesaroni";7;28
+FP11;5;;;"YOUR ROOM IS ON FIRE";"2021-11-27 22:30:00";"Carlo Massaccesi";6;28
+MAIOLO;13;;;"YOUR ROOM IS ON FIRE";"2021-11-27 22:30:00";"Giovanni Celeste";3;28
+MARRAKECH;8;;;NOIRCLUB;"2021-11-20 22:30:00";"Nausica Mattiacci";18;25
+MANCINI;10;;;NOIRCLUB;"2021-11-20 22:30:00";"Michele Cacciamani";8;25
+"LORENZO AMBROGGIO";11;;;"ASSALTI FRONTALI";"2021-11-13 22:30:00";"Carlo Massaccesi";6;24
+"Samuele Priori";6;;"Vicino a Filippo Clementi";NOIRCLUB;"2021-11-06 22:30:00";"Benedetta Tobaldi";9;21
+"Filippo clementi";10;;"Vicino a Samuele Priori";NOIRCLUB;"2021-11-06 22:30:00";"Benedetta Tobaldi";9;21
+lfp;6;;;NOIRCLUB;"2021-11-06 22:30:00";"Nicolò Ausili";1;21
+Franci;7;;;NOIRCLUB;"2021-11-06 22:30:00";"Leonardo Cesaroni";7;21
+Leti;12;;;NOIRCLUB;"2021-11-06 22:30:00";"Michele Cacciamani";8;21
+Cesa;15;;;NOIRCLUB;"2021-11-06 22:30:00";"Leonardo Cesaroni";7;21
+Caccia;12;;;NOIRCLUB;"2021-11-06 22:30:00";"Michele Cacciamani";8;21
+"Luca barchiesi";9;;;NOIRCLUB;"2021-11-06 22:30:00";"Valentina Teodoro";19;21
+Galtelli;6;;;NOIRCLUB;"2021-11-06 22:30:00";"Marco Barbarella";2;21
+uva;9;;;NOIRCLUB;"2021-11-20 22:30:00";"Giuseppe Belviso";22;25
+cmbg;5;;;"ASSALTI FRONTALI";"2021-11-13 22:30:00";"Damiano Bianchi";23;24
+Sartini;12;;;NOIRCLUB;"2021-11-06 22:30:00";"Giuseppe Belviso";22;21
+Maiolo;12;;;MAMACITA;"2021-11-12 22:30:00";"Giovanni Celeste";3;22
+natale;8;;;MAMACITA;"2021-11-12 22:30:00";"Giovanni Celeste";3;22
+Fox;6;;;MAMACITA;"2021-11-12 22:30:00";"Klaudio Nasufi";14;22
+Cesa;10;;;MAMACITA;"2021-11-12 22:30:00";"Leonardo Cesaroni";7;22
+ismail;8;;;MAMACITA;"2021-11-19 22:30:00";"Giovanni Celeste";3;26
+mancini;11;;;MAMACITA;"2021-11-19 22:30:00";"Michele Cacciamani";8;26
+MAIOLO;17;;;MAMACITA;"2021-11-26 22:30:00";"Giovanni Celeste";3;29
+CESA;10;;;MAMACITA;"2021-11-26 22:30:00";"Leonardo Cesaroni";7;29
+Vitali;5;;;MAMACITA;"2021-11-26 22:30:00";"Giovanni Celeste";3;29
+CESA;20;;;"MAI + SENZA";"2021-10-23 22:30:00";"Leonardo Cesaroni";7;35
+"PIETRO NENNI";20;;;"MAI + SENZA";"2021-10-23 22:30:00";"Marco Barbarella";2;35
+"ALESSIA MARZIONI";15;;;"MAI + SENZA";"2021-10-23 22:30:00";"Nausica Mattiacci";18;35
+NURM;16;;;"MAI + SENZA";"2021-10-23 22:30:00";"Valentina Teodoro";19;35
+"RODRY E ANDRY";12;;;"MAI + SENZA";"2021-10-23 22:30:00";"Benedetta Tobaldi";9;35
+brunella;8;;;"NOIR INAGURAZIONE";"2021-10-30 16:28:00";"Carlo Massaccesi";6;36
+cesa;10;;;"NOIR INAGURAZIONE";"2021-10-30 16:28:00";"Leonardo Cesaroni";7;36
+RACHELE;6;;;"NOIR INAGURAZIONE";"2021-10-30 16:28:00";"Marco Barbarella";2;36
+CAPITANI;8;;;"NOIR INAGURAZIONE";"2021-10-30 16:28:00";"Marco Barbarella";2;36
+MASSACCESI;6;;;"NOIR INAGURAZIONE";"2021-10-30 16:28:00";"Carlo Massaccesi";6;36
+UVA;12;;;"NOIR INAGURAZIONE";"2021-10-30 16:28:00";"Marco Barbarella";2;36
+"YARI MENGUCCI";11;;;"NOIR INAGURAZIONE";"2021-10-30 16:28:00";"Valentina Teodoro";19;36
+MAIOLO;8;;;"NOIR INAGURAZIONE";"2021-10-30 16:28:00";"Giovanni Celeste";3;36
+LFP;7;;;"NOIR INAGURAZIONE";"2021-10-30 16:28:00";"Nicolò Ausili";1;36
+pIERALISI;7;;;"NOIR INAGURAZIONE";"2021-10-30 16:28:00";"Carlo Massaccesi";6;36
+Frulla;8;;;"NOIR INAGURAZIONE";"2021-10-30 16:28:00";"Carlo Massaccesi";6;36
+Piccinini;12;;;"NOIR INAGURAZIONE";"2021-10-30 16:28:00";"Ylenia Zitti";5;36
+Elisa;20;;;"MAI + SENZA";"2021-10-23 22:30:00";"Ivan Di Marco";13;35
+Domenico;22;;;"MAI + SENZA";"2021-10-23 22:30:00";"Ivan Di Marco";13;35
+Bastian;15;;;"MAI + SENZA";"2021-10-23 22:30:00";"Giovanni Celeste";3;35
+Santoni;12;;;"ANNI '90";"2021-10-31 16:38:00";"Marco Barbarella";2;37
+"Billy Boys";8;;;"ANNI '90";"2021-10-31 16:38:00";"Benedetta Tobaldi";9;37
+Cesa;15;;;"ANNI '90";"2021-10-31 16:38:00";"Leonardo Cesaroni";7;37
+talita;10;;;"ANNI '90";"2021-10-31 16:38:00";"Maria Ferlito";15;37
+MAIOLO;10;;;MAMACITA;"2021-12-03 22:30:00";"Giovanni Celeste";3;32
+"LARGO EUROPA";5;;;HEART;"2021-12-04 22:30:00";"Giuseppe Belviso";22;30
+"la reunion";7;;;HEART;"2021-12-04 22:30:00";"Giovanni Celeste";3;30
+Maiolo;10;;;HEART;"2021-12-04 22:30:00";"Giovanni Celeste";3;30
+Cingoli;10;;;REWIND;"2021-12-04 22:30:00";"Ylenia Zitti";5;31
+Curzi;10;;;"MAI + SENZA";"2021-10-23 22:30:00";"Federica Curzi";24;35
+ALLEGRO;8;;;"MAI + SENZA";"2021-10-23 22:30:00";"Michele Allegro";26;35
+pIERPAOLI;5;;;"MAI + SENZA";"2021-10-23 22:30:00";"Sebastian Butron";25;35
+DOTTORE;19;;;CALYPSO;"2021-12-11 22:30:00";"Leonardo Cesaroni";7;38
+Maiolo;10;;;MAMACITA;"2021-12-10 22:30:00";"Giovanni Celeste";3;39
+Maiolo;10;;;CALYPSO;"2021-12-11 22:30:00";"Giovanni Celeste";3;38
+Cantarini;21;;;•6GRADI•;"2021-12-18 23:00:00";"Marco Barbarella";2;41
+MAIOLO;10;;;•6GRADI•;"2021-12-18 23:00:00";"Giovanni Celeste";3;41
+"Giulia Cucchiara";7;;;JAMAE';"2021-12-18 23:00:00";"Ivan Di Marco";13;43
+"CESA 1";15;;"Posizione tavolo numero 20";"MAI + SENZA";"2022-02-19 22:30:00";"Leonardo Cesaroni";7;46
+"CESA 2";15;;"Posizione tavolo numero 19";"MAI + SENZA";"2022-02-19 22:30:00";"Leonardo Cesaroni";7;46
+"LAUREA LUCRI";15;;"Dietro i tavoli Cesa";"MAI + SENZA";"2022-02-19 22:30:00";"Leonardo Cesaroni";7;46
+DESIRE;6;;;"MAI + SENZA";"2022-02-19 22:30:00";"Ivan Di Marco";13;46
+LUCCHETTI;6;;;"MAI + SENZA";"2022-02-19 22:30:00";"Marco Barbarella";2;46
+Caccia;15;;;MAMACITA;"2022-02-26 22:30:00";"Michele Cacciamani";8;45
+Cesa;15;;;MAMACITA;"2022-02-26 22:30:00";"Leonardo Cesaroni";7;45
+Brunella;6;;;MAMACITA;"2022-02-26 22:30:00";"Carlo Massaccesi";6;45
+Desirè;6;;;MAMACITA;"2022-02-26 22:30:00";"Ivan Di Marco";13;45
+FULIGNA;14;;;MAMACITA;"2022-03-05 22:30:00";"Marco Barbarella";2;47
+Vincenzo;12;;;MAMACITA;"2022-03-05 22:30:00";"Giovanni Celeste";3;47
+Cesa;10;;;MAMACITA;"2022-03-05 22:30:00";"Leonardo Cesaroni";7;47
+MAIOLO;12;;;MAMACITA;"2022-03-11 22:30:00";"Giovanni Celeste";3;49
+PABLO;12;;;FUORIORARIO;"2022-03-12 22:30:00";"Giovanni Celeste";3;50
+POL;10;;Centrale;MAMACITA;"2022-03-19 22:30:00";"Leonardo Cesaroni";7;51
+SAMP;11;;Centrale;MAMACITA;"2022-03-19 22:30:00";"Marco Barbarella";2;51
+uva;9;;;MAMACITA;"2022-03-19 22:30:00";"Nicolò Ausili";1;51
+Melo;15;;;MAMACITA;"2022-03-19 22:30:00";"Giovanni Celeste";3;51
+"CELESTE 3.0";20;;"TAVOLO IN CONSOLE";MAMACITA;"2022-03-26 22:30:00";"Giovanni Celeste";3;59
+CREMì;10;;"TAVOLO N°6";MAMACITA;"2022-03-26 22:30:00";"Giacomo Mosca";11;59
+Cesa;15;;"TAVOLO N°18";MAMACITA;"2022-03-26 22:30:00";"Michele Cacciamani";8;59
+Scarcella;10;;;MAMACITA;"2022-03-26 22:30:00";"Elena Carducci";4;59
+SAMP;9;;;MAMACITA;"2022-03-26 22:30:00";"Marco Barbarella";2;59
+VINCENZO;12;;;MAMACITA;"2022-03-26 22:30:00";"Giovanni Celeste";3;59
+MONSANO;10;;"Tavolo n°18";MAMACITA;"2022-04-02 22:30:00";"Marco Barbarella";2;60
+"Gio Medici";10;;;MAMACITA;"2022-04-02 22:30:00";"Carlo Massaccesi";6;60
+"OMAR VERONI";10;;;MAMACITA;"2022-04-02 22:30:00";"Omar Baccouche";17;60
+CRICCIO;10;;;"MAI + SENZA";"2022-04-09 22:30:00";"Leonardo Cesaroni";7;63
+SAMP;10;;;"MAI + SENZA";"2022-04-09 22:30:00";"Marco Barbarella";2;63
+"MISTER FABBRETTI";8;;;"MAI + SENZA";"2022-04-09 22:30:00";"Carlo Massaccesi";6;63
+LADELLE;10;;;"MAI + SENZA";"2022-04-09 22:30:00";"Nausica Mattiacci";18;63
+nicolosi;10;;;"MAI + SENZA";"2022-04-09 22:30:00";"Giovanni Celeste";3;63
+SAMP;10;;;FUORIORARIO;"2022-04-17 22:30:00";"Marco Barbarella";2;67
+LUCCHETTA;8;;;MAMACITA;"2022-04-17 22:30:00";"Michele Cacciamani";8;65
+MELO;12;;;MAMACITA;"2022-04-15 22:30:00";"Giovanni Celeste";3;66
+FEDERICA;10;;"FATTO DA FEDERICO SABBATINI";"MAI + SENZA";"2022-04-09 22:30:00";"ONE LOVE";28;63
+"ANDREA FRNACESCO";10;;"FATTO DA FEDERICO SABBATINI";"MAI + SENZA";"2022-04-09 22:30:00";"ONE LOVE";28;63
+TALITA;8;;;"MAI + SENZA";"2022-04-09 22:30:00";"Maria Ferlito";15;63
+CESA;10;;;"CHE NE SANNO I 2000";"2022-05-06 22:30:00";"Leonardo Cesaroni";7;70
+TOMMY;10;;;"CHE NE SANNO I 2000";"2022-05-06 22:30:00";"Leonardo Cesaroni";7;70
+Unione;10;;;"CHE NE SANNO I 2000";"2022-05-06 22:30:00";"Giacomo Mosca";11;70
+CINGHIALE;10;;;"CHE NE SANNO I 2000";"2022-05-06 22:30:00";"Nicolò Ausili";1;70
+"DAMIANO BIANCHI";10;;;"CHE NE SANNO I 2000";"2022-05-06 22:30:00";"Damiano Bianchi";23;70
+CACCIA;18;;;"CHE NE SANNO I 2000";"2022-05-06 22:30:00";"Michele Cacciamani";8;70
+ricci;7;;;MAMACITA;"2022-04-23 22:30:00";"Elena Carducci";4;69
+ALESSIA;14;;;MAMACITA;"2022-04-23 22:30:00";"Michele Cacciamani";8;69
+Cremì;11;;"Tavolo n°6";MAMACITA;"2022-05-14 22:30:00";"Giacomo Mosca";11;77
+"Valeria e Sabina";7;;"Tavolo n°4";MAMACITA;"2022-05-14 22:30:00";"Klaudio Nasufi";14;77
+Paolucci;8;;;MAMACITA;"2022-05-14 22:30:00";"Michele Cacciamani";8;77
+LUCHETTA;6;;;MAMACITA;"2022-05-14 22:30:00";"Michele Cacciamani";8;77
+TALITA;12;;;MAMACITA;"2022-05-14 22:30:00";"Maria Ferlito";15;77

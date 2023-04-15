@@ -1,0 +1,26 @@
+{
+    "short_name": "MTC",
+    "name": "Mamateam/Celeste",
+    "start_url": "/login",
+    "description": "Area riservata Mamateam/Celeste",
+    "background_color": "#54A7FFFF",
+    "display": "standalone",
+    "theme_color": "#002144FF",
+    "icons": [
+        {
+            "src": "/favicon.svg",
+            "type": "image/svg+xml",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/favicon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/favicon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
