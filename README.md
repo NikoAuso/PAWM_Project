@@ -149,60 +149,14 @@ Nell'area riservata, l'utente registrato potrà, a seconda del ruolo, interagire
 > per la homepage di cui ho già
 > un [concept](https://www.figma.com/file/sA1yHloOcHvikVttXss01T/Landing-page---Desktop-view?node-id=0%3A1&t=hvOWr0eSrRxKHOkA-1). 
 
-## Prerequisiti
-
-* php >= 8.0.2
-* Ambiente di sviluppo web (es.[XAMPP](https://www.apachefriends.org/it/index.html))
-
-## Installazione
-
-Per installare l'applicazione, eseguire il comando:
-
-```bash
-  composer update
-```
-
-In seguito è necessario creare un file _.env_ che conterrà tutte le variabili di ambiente dell'applicazione.
-In particolare andranno modificate le variabili:
-
-> * DB_CONNECTION
-> * DB_HOST
-> * DB_PORT
-> * DB_DATABASE
-> * DB_USERNAME
-> * DB_PASSWORD
-
-Inserendo il tipo di connessione e le credenziali di accesso al database di prova che andrà creato nell'ambiente di
-sviluppo.
-
-Successivamente eseguire i comandi:
-
-```bash
-  php artisan migrate
-
-  php artisan db:seed
-```
-
-che effettuerà le _migration_ delle tabelle necessarie nel database e le popolerà con dei dati di esempio già
-preimpostati e modificabili.
-
-Infine, per avviare il server di sviluppo integrato di Laravel, eseguire il comando:
-
-```bash
-  php artisan serve
-```
-
-e cliccare sul link mostrato nel terminale.
-
 ## Screenshot
 ![Homepage - 1](public/assets/img/screenshots/Homepage1.png)
 ![Homepage - 2](public/assets/img/screenshots/Homepage2.png)
-
 ![Dashboard](public/assets/img/screenshots/Dashboard.png)
 ![Utenti](public/assets/img/screenshots/Utenti.png)
 ![Eventi](public/assets/img/screenshots/Eventi.png)
 ![Tavoli](public/assets/img/screenshots/Tavoli.png)
-![Liste](public/assets/img/screenshots/iste.png)
+![Liste](public/assets/img/screenshots/Liste.png)
 ![Logs](public/assets/img/screenshots/Logs.png)
 
 <!-- MARKDOWN LINKS & IMAGES -->
